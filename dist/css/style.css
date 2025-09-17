@@ -11,11 +11,9 @@ ul {
 }
 ul li {
   width: 200px;
-  background-color: #5bdb34;
+  background-color: #ccc;
 }
 ul li a {
   color: #fff;
   font-size: 32px;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */

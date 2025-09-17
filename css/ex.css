@@ -1,0 +1,43 @@
+.scss_btn {
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-family: "Noto Sans", sans-serif;
+  cursor: pointer;
+  color: #fff;
+  font-size: 24px;
+}
+.scss_btn.primary {
+  background-color: #3498db;
+}
+.scss_btn.primary:hover {
+  background-color: #2a79ad;
+}
+.scss_btn.secondary {
+  background-color: #5bdb34;
+}
+.scss_btn.secondary:hover {
+  background-color: #45aa26;
+}
+.scss_btn.danger {
+  background-color: #e74c3c;
+}
+.scss_btn.danger:hover {
+  background-color: #aa3528;
+}
+
+.title {
+  color: #5bdb34;
+}
+
+.btn {
+  padding: 20px 20px;
+  color: #fff;
+}
+.btn.primary {
+  background-color: #3498db;
+}
+.btn:hover {
+  background-color: #2a79ad;
+}
+
+/*# sourceMappingURL=ex.css.map */

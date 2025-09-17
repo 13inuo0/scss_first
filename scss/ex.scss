@@ -1,0 +1,20 @@
+@import "vaariables";
+@import "_button";
+
+.title{
+    color: $sub-color;
+}
+.btn{
+    padding: 20px 20px;
+    // background-color: $primary;
+    color: #fff;
+    &.primary{
+        background-color: $main-color;
+    }
+    &:hover{
+        background-color: $primary-hover;
+    }
+}
+// .btn .primary{
+//     background-color: $primary;
+// }
